@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+
+
+ body {
+    background-color: rgb(32, 178, 122);
+    font-family: Roboto dark;
+
+}
+h3{
+    color: seagreen;
+}
+
+#container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card:hover {
+
+    border: 10px rgb(112, 162, 216) solid;
+}
+
+
+/* footer button:hover{
+    background-color: red;
+} */
